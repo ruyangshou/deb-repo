@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/github-ruyangshou-deb_repo.gpg] https://github.com/ruyangshou/deb-repo ./
+deb [signed-by=/etc/apt/trusted.gpg.d/github-ruyangshou.gpg] https://ruyangshou.github.io/deb-repo ./
