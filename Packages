@@ -5,9 +5,9 @@ Maintainer: Plexus developers
 Installed-Size: 82
 Filename: ./plexus-msgs_1.0.20250730_amd64.deb
 Size: 6118
-MD5sum: b12be15ed4025db112b321e4b7804315
-SHA1: b969542f48b9ccdc24e57f773eecf0690f447cd4
-SHA256: 2ee5da99ba04a5de30062f9e73b908a320eed37c55f2e6cbd91e9d2dce3569ce
+MD5sum: e52accfbf0eea934dd23c2d3e5fa76c6
+SHA1: 528ad9a2a5c4779ea5edd708dec36bebdc62f579
+SHA256: eb27f0a9a607b055e36590476e4be524a7aa54a2983c06439a98ad4ebbbe5ead
 Section: devel
 Priority: optional
 Description: Plexus ProtoBuf messages definitions
@@ -19,12 +19,27 @@ Architecture: amd64
 Maintainer: Plexus developers
 Installed-Size: 12060
 Filename: ./plexus-msgs-cpp_1.0.20250730_amd64.deb
-Size: 3571226
-MD5sum: 49689f287d57efc77ede91deeee0cab8
-SHA1: a23895eccbf1e4d22563ab189145d724a03aed5b
-SHA256: 5c0d4db1612d015a8e7e26316343f6d82ab34f0706a4e87938e3e51602ac0fbf
+Size: 3571088
+MD5sum: e29f384b4858d5b9b0f4fde0b24d087d
+SHA1: 687aad629431958cb34a368baac2b9e45f4b5158
+SHA256: 7bd9c8aec3f0b4e69d06f8cd678c09bd19baba77274fc8aa1ddc4abc50af5f42
 Section: devel
 Priority: optional
 Description: C++ APIs and utilities for Plexus ProtoBuf messages
  C++ APIs and utilities for Plexus ProtoBuf messages
+
+Package: plexus-workbench
+Version: 1.0.20250730
+Architecture: amd64
+Maintainer: Plexus developers
+Installed-Size: 12
+Filename: ./plexus-workbench_1.0.20250730_amd64.deb
+Size: 2048
+MD5sum: e36bb5f9ca09b89202d0bfc563b80873
+SHA1: dee7e3d3e4cf06e22911ea561bcd6bf57944f103
+SHA256: c54ea58d54d12a5c45e8b19d5c9649de38603eca36700fd1468b71041dcdc258
+Section: devel
+Priority: optional
+Description: Plexus Workbench for simplified process of setting up and managing development environments
+ Plexus Workbench for simplified process of setting up and managing development environments
 
