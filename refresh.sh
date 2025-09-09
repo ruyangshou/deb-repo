@@ -15,4 +15,3 @@ gpg --default-key "${GPG_KEY_EMAIL}" --clearsign -o - Release > InRelease
 git add -A
 git commit -m "Update packages"
 git push origin master
-
