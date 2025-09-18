@@ -1,3 +1,19 @@
+Package: plexus-cmake-utils
+Version: 1.0.20250920
+Architecture: amd64
+Maintainer: developer@plexus.ai
+Installed-Size: 34
+Depends: cmake (>= 3.22)
+Filename: ./plexus-cmake-utils_1.0.20250920_amd64.deb
+Size: 3652
+MD5sum: c4354324720554488e89361a11d0dada
+SHA1: 22c21c1f139b6702f26345cc10cfdc55b69d46dc
+SHA256: b2df53234a3909d74a6dc7303d65a7f22431d74b3a7a9c7c520127655c3270ac
+Section: devel
+Priority: optional
+Description: Plexus CMake utilities
+ Plexus CMake utilities
+
 Package: plexus-msgs
 Version: 1.0.20250730
 Architecture: amd64
@@ -53,6 +69,22 @@ Size: 2056
 MD5sum: a2b84aa008064c9fa53520119f58dd7c
 SHA1: ababe5d232134765b77264a6ea0633f194f38018
 SHA256: 0159e78d3ba05d9252056dc5b225d3653db9c78a749b2aaf3b3ba0f5a4223b6c
+Section: devel
+Priority: optional
+Description: Plexus Workbench for simplified process of setting up and managing development environments
+ Plexus Workbench for simplified process of setting up and managing development environments
+
+Package: plexus-workbench
+Version: 1.0.20250920
+Architecture: amd64
+Maintainer: developer@plexus.ai
+Installed-Size: 12
+Depends: cmake (>= 3.22)
+Filename: ./plexus-workbench_1.0.20250920_amd64.deb
+Size: 2082
+MD5sum: 4db6399eb57c9800c259af3cfddd03b1
+SHA1: 426b70035905b7a67afc908a83f758bdf70da321
+SHA256: c56ff727108e8f222793ac06a387555ab164091d42330ae73a10758eaafa7567
 Section: devel
 Priority: optional
 Description: Plexus Workbench for simplified process of setting up and managing development environments
