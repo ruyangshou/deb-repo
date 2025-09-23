@@ -74,16 +74,31 @@ Priority: optional
 Description: C++ APIs and utilities for Plexus ProtoBuf messages
  C++ APIs and utilities for Plexus ProtoBuf messages
 
+Package: plexus-third-parties-blend2d
+Version: 0.1.20250920
+Architecture: amd64
+Maintainer: developer@plexus.ai
+Installed-Size: 5105
+Filename: ./plexus-third-parties-blend2d_0.1.20250920_amd64.deb
+Size: 1597396
+MD5sum: 50be723779f7f7050d2cac6054699136
+SHA1: 8af80970c74676242f75973566a821ac5abc905e
+SHA256: 1c69ab7232065e4af38425487d32585c553952d9596b6156828e05324a9fd656
+Section: devel
+Priority: optional
+Description: See https://github.com/blend2d/blend2d
+ See https://github.com/blend2d/blend2d
+
 Package: plexus-third-parties-clothoids
 Version: 2.0.10
 Architecture: amd64
 Maintainer: developer@plexus.ai
-Installed-Size: 19148
+Installed-Size: 45401
 Filename: ./plexus-third-parties-clothoids_2.0.10_amd64.deb
-Size: 3051892
-MD5sum: 5356273c8426b4b70b081386d67a52a2
-SHA1: b084a4e46a80fd23c848b8b27e81c6baf471e152
-SHA256: 636a3d4a582fdbab43d69d07c2e599aa4c485a7ea535f70d712c0c48c1818608
+Size: 9913416
+MD5sum: 94742b1dc3bbd51714feb5edbe1bbcad
+SHA1: a761e8a180b47ac67e195dd8a3361f03784bc4a9
+SHA256: 75f6b60c2d2a0deb69d9467ab8a81b1e166de3438faea9f2feca08d9b4adc78f
 Section: devel
 Priority: optional
 Description: See https://github.com/ebertolazzi/Clothoids
@@ -95,10 +110,10 @@ Architecture: amd64
 Maintainer: developer@plexus.ai
 Installed-Size: 1620
 Filename: ./plexus-third-parties-exprtk_0.0.3_amd64.deb
-Size: 157724
-MD5sum: e37579d810ddf1b19096b491af9290e7
-SHA1: adf287cab7523be2f2613fc27f171a2bfd2e27e4
-SHA256: aec06828c6f5073d73f7af698de286a9b8637de52fd428cf7ca303f8719965d3
+Size: 157728
+MD5sum: ce99c7aa630003fe253918817f9bf2c5
+SHA1: 29719b13528e003e9526e3f0c450adcd55dfb92e
+SHA256: 0352c385b8cd9cc9f99a2dac05274378670f5ff867f88117bd2ec06c8b66ebdb
 Section: devel
 Priority: optional
 Description: See https://github.com/ArashPartow/exprtk
@@ -110,10 +125,10 @@ Architecture: amd64
 Maintainer: developer@plexus.ai
 Installed-Size: 164
 Filename: ./plexus-third-parties-magic-enum_0.9.7_amd64.deb
-Size: 28258
-MD5sum: 8dc34179fad9b90ac6ea065d7247277b
-SHA1: a44858b49cf1c6cd55fd71b9c7dc225de6ea049c
-SHA256: d47328ef2da82cd46779f0827de57a8d1e48ea9cb35d2831667b9fbb28072c0c
+Size: 28256
+MD5sum: 470a69bdfcedb6f10992d68fabb261d7
+SHA1: 6f2efd351842f3e4e62ca2384d7814ca9a4d42fc
+SHA256: 63f539f9d3982de03d3a731206bd9dd1660f2d9494f9bd1fec798c13bd2abe1e
 Section: devel
 Priority: optional
 Description: See https://github.com/Neargye/magic_enum
@@ -125,10 +140,10 @@ Architecture: amd64
 Maintainer: developer@plexus.ai
 Installed-Size: 1168
 Filename: ./plexus-third-parties-nanovg_0.1.20250920_amd64.deb
-Size: 337204
-MD5sum: 3670a09bfb3b6c595b770d45b711f5ae
-SHA1: 374927838fa644e0e2b04447ccc12f8c440e6038
-SHA256: 978f18c4b30e553a3996105e1d97dd278595d2f81ef881ce95afc2c98509204a
+Size: 337196
+MD5sum: e5a563cffb3efa120892a35beb188233
+SHA1: 40f081ab60c217a09c93379e9e1ffaa465a72ac6
+SHA256: 5e28b08a45958f064cd1dc30b6e42405af4aca9629cde45285894035eff703e8
 Section: devel
 Priority: optional
 Description: See https://github.com/memononen/nanovg
