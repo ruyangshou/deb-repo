@@ -78,12 +78,12 @@ Package: plexus-third-parties-blend2d
 Version: 0.1.20250920
 Architecture: amd64
 Maintainer: developer@plexus.ai
-Installed-Size: 5105
+Installed-Size: 4017
 Filename: ./plexus-third-parties-blend2d_0.1.20250920_amd64.deb
-Size: 1597396
-MD5sum: 50be723779f7f7050d2cac6054699136
-SHA1: 8af80970c74676242f75973566a821ac5abc905e
-SHA256: 1c69ab7232065e4af38425487d32585c553952d9596b6156828e05324a9fd656
+Size: 1436266
+MD5sum: 1d0fefca681d0855113042e37d77c0f3
+SHA1: df5796e44e469565d0376a6e26c02b5dcf10403f
+SHA256: c3369724fc5647cd8b471d0a55b44dcd687bb7997528f46feb1501e517cddfa0
 Section: devel
 Priority: optional
 Description: See https://github.com/blend2d/blend2d
