@@ -59,6 +59,21 @@ Priority: optional
 Description: Plexus ProtoBuf messages definitions
  Plexus ProtoBuf messages definitions
 
+Package: plexus-msgs
+Version: 1.0.20251210
+Architecture: amd64
+Maintainer: developer@plexus.ai
+Installed-Size: 83
+Filename: ./plexus-msgs_1.0.20251210_amd64.deb
+Size: 6498
+MD5sum: f2b4baec51cca3a9a7ed6a5e53888d0b
+SHA1: 6e3bfdec48271fe19efd4748c9560454610633ba
+SHA256: 9f932c2437392ec35c28312b0b74747c2884d4b0e78e5d60337233727ef45e36
+Section: devel
+Priority: optional
+Description: Plexus ProtoBuf messages definitions
+ Plexus ProtoBuf messages definitions
+
 Package: plexus-msgs-cpp
 Version: 1.0.20250730
 Architecture: amd64
@@ -99,6 +114,21 @@ Size: 3662062
 MD5sum: 326263d1fdb418281101f49676274549
 SHA1: 6edd8c229f2f9abe6b7f3494c26c39173ce64be9
 SHA256: 33467f6625b531e63e3e7ec84805003f46c5acbc6cfd04f322d5cfe290b164d4
+Section: devel
+Priority: optional
+Description: C++ APIs and utilities for Plexus ProtoBuf messages
+ C++ APIs and utilities for Plexus ProtoBuf messages
+
+Package: plexus-msgs-cpp
+Version: 1.0.20251210
+Architecture: amd64
+Maintainer: developer@plexus.ai
+Installed-Size: 12461
+Filename: ./plexus-msgs-cpp_1.0.20251210_amd64.deb
+Size: 3662058
+MD5sum: 006c4777d22df328acb2a1f0bc11d541
+SHA1: 82a1969184065c6980dfe4784eae88bb65513800
+SHA256: dc00e3f2cd640ee5993130c14fb00cbbb4f090c854da2f68f5a6051407804057
 Section: devel
 Priority: optional
 Description: C++ APIs and utilities for Plexus ProtoBuf messages
