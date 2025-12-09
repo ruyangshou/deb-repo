@@ -209,6 +209,21 @@ Priority: optional
 Description: See https://github.com/memononen/nanovg
  See https://github.com/memononen/nanovg
 
+Package: plexus-third-parties-tomlplusplus
+Version: 3.4.0
+Architecture: amd64
+Maintainer: developer@plexus.ai
+Installed-Size: 695
+Filename: ./plexus-third-parties-tomlplusplus_3.4.0_amd64.deb
+Size: 122658
+MD5sum: e20ad1874f5ec3475bd0f084c46e0fdd
+SHA1: f3fb267cd2a9e0174430b8b23cce92dacf855ba5
+SHA256: 7e9e19d1cd8d35141fb2c93d245e71223a157aed0630cab537e95ed868e20fa8
+Section: devel
+Priority: optional
+Description: See https://github.com/marzer/tomlplusplus
+ See https://github.com/marzer/tomlplusplus
+
 Package: plexus-workbench
 Version: 1.0.20250730
 Architecture: amd64
