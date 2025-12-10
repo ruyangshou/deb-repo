@@ -270,3 +270,19 @@ Priority: optional
 Description: Plexus Workbench for simplified process of setting up and managing development environments
  Plexus Workbench for simplified process of setting up and managing development environments
 
+Package: plexus-workbench
+Version: 1.0.20251125
+Architecture: amd64
+Maintainer: developer@plexus.ai
+Installed-Size: 12
+Depends: cmake (>= 3.22)
+Filename: ./plexus-workbench_1.0.20251125_amd64.deb
+Size: 2124
+MD5sum: 2ecd3f0c44c628863960e1e5a9bb2a49
+SHA1: 451256291e7186f1975701c6fa14dc630c16b130
+SHA256: 8f3d0638c8664252b9f079203487a49a3fbfc4e4d308f44767de53132603c9ef
+Section: devel
+Priority: optional
+Description: Plexus Workbench for simplified process of setting up and managing development environments
+ Plexus Workbench for simplified process of setting up and managing development environments
+
