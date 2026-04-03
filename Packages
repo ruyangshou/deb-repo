@@ -69,10 +69,10 @@ Maintainer: developer@plexus.ai
 Installed-Size: 16374
 Depends: libboost-all-dev (>= 1.80), libeigen3-dev (>= 3.4), libprotobuf-dev (>= 3.12), libyaml-cpp-dev (>= 0.8), libgoogle-glog-dev (>= 0.6), libcgal-dev (>= 5.4), libpcl-dev (>= 1.12), libopenscenegraph-dev (>= 3.6), plexus-msgs-cpp, plexus-third-parties-magic-enum, plexus-third-parties-tomlplusplus
 Filename: ./plexus-common_1.0.20260405_amd64.deb
-Size: 4789418
-MD5sum: 70f10d070d23f2d38b054f34fb440b2b
-SHA1: 04f8c4af903e0bec3021c3f7d752860be0fd0dcb
-SHA256: 4c42c15033f05e4e87c1f46d3aef977c32643b222969cabd93e453bcd6f6f36c
+Size: 4789384
+MD5sum: ceb0b8d43fe6943bf171747996edf847
+SHA1: 181b5ab77c86ed2dd1e6de05b4e23e9cf4f22dd1
+SHA256: 07e8b329e16b3fe2f09ea88f14e1d53c3272cc1f0ff44b597ab0b47af96d2444
 Section: libs
 Priority: optional
 Description: Plexus Common Utilities Library
