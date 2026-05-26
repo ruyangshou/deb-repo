@@ -46,6 +46,22 @@ Priority: optional
 Description: Plexus CMake utilities
  Plexus CMake utilities
 
+Package: plexus-cmake-utils
+Version: 1.0.20260530
+Architecture: amd64
+Maintainer: developer@plexus.ai
+Installed-Size: 40
+Depends: cmake (>= 3.22)
+Filename: ./plexus-cmake-utils_1.0.20260530_amd64.deb
+Size: 4146
+MD5sum: 3033027b91035f85704cdc2480bb0ae4
+SHA1: d1e3a891c19196c655635409dc18206d20bef8de
+SHA256: 5c201e73f868f7ffc54e87511ea0e2cb3750ee4cbe66f09bb5ec9b0edebc7a6d
+Section: devel
+Priority: optional
+Description: Plexus CMake utilities
+ Plexus CMake utilities
+
 Package: plexus-common
 Version: 1.0.20260330
 Architecture: amd64
