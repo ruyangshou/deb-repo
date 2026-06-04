@@ -350,6 +350,22 @@ Priority: optional
 Description: See https://github.com/marzer/tomlplusplus
  See https://github.com/marzer/tomlplusplus
 
+Package: plexus-third-parties-vsg
+Version: 1.1.15
+Architecture: amd64
+Maintainer: developer@plexus.ai
+Installed-Size: 58362
+Depends: libvulkan-dev, glslang-dev
+Filename: ./plexus-third-parties-vsg_1.1.15_amd64.deb
+Size: 6269026
+MD5sum: 88ad3bcf5760619823ee068e1c40ce44
+SHA1: 75a0c158a76128fb1d30b1e71a9b719b6a7918ad
+SHA256: 35a1db37378324c0b9a9c66af5809b6365c52d92a6252670d4bef7f3f819ed44
+Section: devel
+Priority: optional
+Description: See https://github.com/vsg-dev/VulkanSceneGraph
+ See https://github.com/vsg-dev/VulkanSceneGraph
+
 Package: plexus-workbench
 Version: 1.0.20250730
 Architecture: amd64
