@@ -94,6 +94,22 @@ Priority: optional
 Description: Plexus Common Utilities Library
  Shared utility library providing common functionality for Plexus projects including utilities, containers, and geometry helpers.
 
+Package: plexus-common
+Version: 1.0.20260605
+Architecture: amd64
+Maintainer: developer@plexus.ai
+Installed-Size: 16379
+Depends: libboost-all-dev (>= 1.80), libeigen3-dev (>= 3.4), libprotobuf-dev (>= 3.12), libyaml-cpp-dev (>= 0.8), libgoogle-glog-dev (>= 0.6), libcgal-dev (>= 5.4), libpcl-dev (>= 1.12), libopenscenegraph-dev (>= 3.6), plexus-msgs-cpp, plexus-third-parties-magic-enum, plexus-third-parties-tomlplusplus, plexus-third-parties-vsg
+Filename: ./plexus-common_1.0.20260605_amd64.deb
+Size: 4789912
+MD5sum: e3acd426f8423c84e287ca549a701cf4
+SHA1: 85e18f724e48873438944d3d5be62570f989b9b9
+SHA256: 8e09a7e47e8fd286cafc9e5b10117615106718f524cb0718877dd337790b13c7
+Section: libs
+Priority: optional
+Description: Plexus Common Utilities Library
+ Shared utility library providing common functionality for Plexus projects including utilities, containers, and geometry helpers.
+
 Package: plexus-msgs
 Version: 1.0.20250730
 Architecture: amd64
