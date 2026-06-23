@@ -1,3 +1,18 @@
+Package: plexus-carto
+Version: 1.0.20260625
+Architecture: amd64
+Maintainer: developer@plexus.ai
+Installed-Size: 100310
+Depends: plexus-ux
+Filename: ./plexus-carto_1.0.20260625_amd64.deb
+Size: 30812266
+MD5sum: dd17a49ed7d3ace3afa9c00292672383
+SHA1: 3b3deb13f4aee559b56b12780f6354110d709917
+SHA256: a46417fd6a4e059dea84775edabc41df6074040f12373458b541894a3df97117
+Section: libs
+Priority: optional
+Description: Plexus - Data Editing and Visualization Tools
+
 Package: plexus-cmake-utils
 Version: 1.0.20250920
 Architecture: amd64
@@ -276,6 +291,21 @@ Priority: optional
 Description: C++ APIs and utilities for Plexus ProtoBuf messages
  C++ APIs and utilities for Plexus ProtoBuf messages
 
+Package: plexus-player
+Version: 1.0.20260625
+Architecture: amd64
+Maintainer: developer@plexus.ai
+Installed-Size: 98107
+Depends: plexus-ux, plexus-carto
+Filename: ./plexus-player_1.0.20260625_amd64.deb
+Size: 30746260
+MD5sum: ccb74e1b2dc4edb43a42e603c89e9e16
+SHA1: 719bfdea4eab36045410a84266e06f603fe8c430
+SHA256: dd1df8b3a27ca89479d1503bec881486fb7f03e73dedd3b9300aa38c458b9b98
+Section: libs
+Priority: optional
+Description: Plexus - Data Editing and Visualization Tools
+
 Package: plexus-third-parties-blend2d
 Version: 0.1.20260330
 Architecture: amd64
@@ -381,6 +411,21 @@ Section: devel
 Priority: optional
 Description: See https://github.com/vsg-dev/VulkanSceneGraph
  See https://github.com/vsg-dev/VulkanSceneGraph
+
+Package: plexus-ux
+Version: 1.0.20260625
+Architecture: amd64
+Maintainer: developer@plexus.ai
+Installed-Size: 33622
+Depends: libboost-all-dev (>= 1.80), libeigen3-dev (>= 3.4), libprotobuf-dev (>= 3.12), libyaml-cpp-dev (>= 0.8), libgoogle-glog-dev (>= 0.6), libcgal-dev (>= 5.4), libpcl-dev (>= 1.12), libopenscenegraph-dev (>= 3.6), qt6-base-dev (>= 6.4), plexus-msgs-cpp, plexus-third-parties-blend2d, plexus-third-parties-nanovg, plexus-common
+Filename: ./plexus-ux_1.0.20260625_amd64.deb
+Size: 12177014
+MD5sum: 0dd42440691604a9ebfac039bfc5a2bc
+SHA1: 03e62440163eb1fd5092442702b3cc8caa254f14
+SHA256: f143c89a7e3a9e129974b86e73011952878ea4f8a2ef941c5954999603c95484
+Section: libs
+Priority: optional
+Description: Plexus - Data Editing and Visualization Tools
 
 Package: plexus-workbench
 Version: 1.0.20250730
